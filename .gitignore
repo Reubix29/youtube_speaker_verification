@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+audio_cache/
+pretrained_models/
+spkrec-ecapa-voxceleb/
+*.wav
